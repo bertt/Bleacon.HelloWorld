@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/bertt/Bleacon.HelloWorld/issues"
   },
-  "homepage": "https://github.com/bertt/Bleacon.HelloWorld"
+  "homepage": "https://github.com/bertt/Bleacon.HelloWorld",
+  "dependencies": {
+    "bignum": "^0.10.0",
+    "bleacon": "^0.2.3",
+    "bleno": "^0.1.13",
+    "bplist-parser": "^0.1.0",
+    "debug": "~2.2.0",
+    "noble": "^1.0.1",
+    "xpc-connection": "^0.1.3"
+  }
 }
